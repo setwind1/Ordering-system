@@ -2,8 +2,6 @@
 
 <h1 align="center">点餐系统</h1>
 
-点餐系统系统设计说明书
-
 <p align="center">
 
   <strong>基于 Spring Boot 3 + Vue 3 + uni-app 的 SaaS 多门店扫码点餐系统</strong>
@@ -30,7 +28,7 @@
 
 项目说明： 开源SaaS多门店扫码点餐系统，支持堂食/外卖/自提，集成部分微信生态
 
-0ea0056d5aab22f61e9fa3485d9b39547aab8e80
+
 
 ---
 
@@ -49,7 +47,7 @@
 
 
 
-<<<<<<< HEAD
+
 
 📖 项目简介
 
