@@ -1,18 +1,14 @@
-<<<<<<< HEAD
+
 
 <h1 align="center">点餐系统</h1>
 
 点餐系统系统设计说明书
-
-0ea0056d5aab22f61e9fa3485d9b39547aab8e80
 
 <p align="center">
 
   <strong>基于 Spring Boot 3 + Vue 3 + uni-app 的 SaaS 多门店扫码点餐系统</strong>
 
 </p>
-
-<<<<<<< HEAD
 
 <p align="center">
 
